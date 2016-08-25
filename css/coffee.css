@@ -1,0 +1,32 @@
+body {
+
+}
+div#container {
+  background-image: url(../img/beach.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  /*background-color: lightgrey;*/
+  border: darkgrey 1px solid;
+  border-radius: 5px;
+  width: 500px;
+  padding: 10px;
+}
+
+h1 {
+  color: orange;
+  text-align: center;
+}
+
+ul {
+  background-color: beige;
+}
+
+img {
+  width: 100%;
+}
+
+hr {
+  border-style: dashed;
+  border-color: white;
+}

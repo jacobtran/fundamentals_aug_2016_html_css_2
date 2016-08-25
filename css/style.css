@@ -1,0 +1,60 @@
+.box {
+  width: 200px;
+  background-color: grey;
+  backg
+  background: grey;
+  color: white;
+  font-family: Arial;
+  text-align: center;
+  border: 1px green dashed;
+  border-radius: 10px;
+  
+  /*border-width: 1px;
+  border-color: green;
+  border-style: solid;*/
+
+  /*margin: 10px;*/
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+
+  /* TRBL - trouble */
+  margin: 10px 20px 30px 40px;
+
+  padding: 10px;
+}
+
+ul.special li {
+  color: brown !important;
+}
+
+div p.special {
+  color: green;
+}
+
+
+div {
+  background-color: lightblue;
+}
+
+span#special {
+  background-color: gold;
+}
+
+div.short-paragraph {
+  background-color: pink;
+}
+
+div span {
+  background-color: red;
+}
+
+.big-font {
+  font-size: 100px;
+  color: white;
+}
+
+.dark-background {
+  background-color: black;
+}
